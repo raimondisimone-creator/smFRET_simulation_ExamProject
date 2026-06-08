@@ -1,0 +1,7 @@
+# File compilati Python
+__pycache__/
+*.pyc
+*.pyo
+
+#Cartelle non utili:
+00-Idee/
